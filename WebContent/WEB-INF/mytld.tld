@@ -1,0 +1,12 @@
+<taglib version="2.1">
+<tlib-version>1.2.3</tlib-version>
+<uri>www.mine.com</uri>
+<tag>
+
+<name>myTag</name>
+<tag-class>tags.MyTagHandler</tag-class>
+
+</tag>
+
+
+</taglib>
